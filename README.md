@@ -1,4 +1,5 @@
 # Hi my ghouls and demons! 
+![Kaneki](https://data.whicdn.com/images/233922490/original.gif)
 # Glad to see you in TakeshiHero's Antaiku :)
 ![Anteiku](https://raw.githubusercontent.com/TakeshiHero/Anteiku/master/My%20logo/Anteiku.jpg)
 Візьми трішки кави, сядь на зручний стілець і можеш переглянути мої лабораторні роботи з програмування, або просто відпочивай.
