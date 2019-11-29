@@ -1,5 +1,5 @@
 # Hi my ghouls and demons! 
-# Gland to see you in TakeshiHero's Antaiku :)
+# Glad to see you in TakeshiHero's Antaiku :)
 ![Anteiku](https://raw.githubusercontent.com/TakeshiHero/Anteiku/master/My%20logo/Anteiku.jpg)
 Візьми трішки кави, сядь на зручний стілець і можеш переглянути мої лабораторні роботи з програмування, або просто відпочивай.
 # Мої лабораторні роботи
